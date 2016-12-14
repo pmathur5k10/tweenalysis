@@ -1,0 +1,10 @@
+-tweepy
+-textblob
+
+run chcp 65001
+// for UTF-8 encoding before running the script
+
+// go to twitter developers app
+//sign in
+//get consumer and access credentials 
+//feed in the script 
